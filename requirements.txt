@@ -1,4 +1,5 @@
 streamlit
-pickle
+pickle5
 numpy
 scikit-learn
+
